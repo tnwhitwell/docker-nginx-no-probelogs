@@ -1,4 +1,4 @@
-FROM nginx:alpine
+FROM nginx:1.13.12-alpine
 
 MAINTAINER Tom Whitwell version: 1.0
 
